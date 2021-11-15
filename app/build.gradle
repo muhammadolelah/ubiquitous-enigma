@@ -28,6 +28,7 @@ dependencies {
     implementation project(":fonts")
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$versions.kotlin"
+    implementation 'io.cobrowse:cobrowse-sdk-android:2.+'
 
     implementation "androidx.appcompat:appcompat:$versions.appCompat"
     implementation "androidx.core:core-ktx:$versions.ktxCore"
