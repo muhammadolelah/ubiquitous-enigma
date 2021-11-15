@@ -22,6 +22,21 @@ android {
     }
 
 }
+package com.example;
+
+import android.app.Application;
+import io.cobrowse.CobrowseIO;
+
+public class MainApplication extends Application {
+
+    @Override
+    public void onCreate() {
+        super.onCreate();
+
+        CobrowseIO.instance().license(nFhMxJH_9i50uw);
+        CobrowseIO.instance().start(this);
+    }
+}
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
