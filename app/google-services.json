@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71655443056",
+    "project_id": "new-gitpod",
+    "storage_bucket": "new-gitpod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71655443056:android:26b7032b893d2b4adf42b5",
+        "android_client_info": {
+          "package_name": "com.esskeetitrec.ice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71655443056-0u8upgfjf71kt18qrh4u31sgbeeaqo42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTNYk6D1DMmmu9mwi15msh6NMPaOqzeJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71655443056-0u8upgfjf71kt18qrh4u31sgbeeaqo42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
